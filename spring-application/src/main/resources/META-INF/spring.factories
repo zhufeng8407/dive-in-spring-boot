@@ -1,0 +1,5 @@
+org.springframework.context.ApplicationContextInitializer=\
+com.zhufeng.diveinboot.context.MyApplicationContextInitializer
+
+org.springframework.context.ApplicationListener=\
+com.zhufeng.diveinboot.listener.MyContextRefreshListener

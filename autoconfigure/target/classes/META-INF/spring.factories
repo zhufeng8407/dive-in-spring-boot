@@ -1,2 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.zhufeng.diveinboot.autoconfig.HelloWorldAutoConfiguration
